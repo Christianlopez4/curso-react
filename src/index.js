@@ -4,8 +4,6 @@ import './index.css';
 import App from './App';
 
 ReactDOM.render(
-    <App>
-      platzi
-    </App>,
+    <App />,
   document.getElementById('root')
 );
